@@ -35,7 +35,6 @@ University of Information Technology (UIT), Yangon
 ## 🤝 Contributions
 If you're a fellow student or developer and want to add improvements or more examples, feel free to fork the repo and create a pull request.
 
-## License
+## 📄 License
 This repository is open for academic use by UIT students. Commercial use is not permitted.  
-
 Not intended for commercial or unauthorized distribution.
