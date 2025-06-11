@@ -1,4 +1,4 @@
-# Fuzzy-Logic-MATLAB-Codes
+# Fuzzy Logic Systems: MATLAB Codes (TDA & Labs)
 
 This repository contains MATLAB code examples related to **Fuzzy Logic Systems**, created for **educational purposes only**.
 
@@ -14,7 +14,7 @@ It is intended to support **Semester VII – CST 7416: Fuzzy Logic Systems** stu
 You can clone or download this repository and run the `.m` files directly in MATLAB. All code examples are written for clarity and easy understanding.
 
 ```bash
-git clone https://github.com/your-username/Fuzzy-Logic-MATLAB-Codes.git
+git clone https://github.com/NanGyeThote/Fuzzy-Logic-MatLab-Codes.git
 ```
 
 ## Note to Students
