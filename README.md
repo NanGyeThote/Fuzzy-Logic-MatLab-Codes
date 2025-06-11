@@ -2,7 +2,7 @@
 
 This repository contains MATLAB code examples related to **Fuzzy Logic Systems**, created for **educational purposes only**.
 
-It is intended to support **Semester VII – CST 7416: Fuzzy Logic** students at **UIT Yangon**. Students are free to explore, modify, and reuse the code for learning and academic projects.
+It is intended to support **Semester VII – CST 7416: Fuzzy Logic Systems** students at **UIT Yangon**. Students are free to explore, modify, and reuse the code for learning and academic projects.
 
 ## 📂 What's Inside
 - Basic fuzzy set operations (union, intersection, complement)
